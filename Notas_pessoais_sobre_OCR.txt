@@ -1,0 +1,36 @@
+
+
+A sigla OCR quer dizer Optical Character Recognition, ou Reconhecimento Óptico de Caracteres.
+Trata-se de uma tecnologia usada para extrair informações de documentos e imagens.
+O processo básico envolve examinar o conteúdo e traduzir os caracteres em código que pode ser usado para
+processamento de dados (que também pode ser chamado de reconhecimento de texto).
+
+Os sistemas de OCR são compostos por uma combinação de hardware e software usados para converter documentos
+físicos em texto legível por um sistema. Os hardware, ou ferramentas, servem como um scanner óptico ou placa
+de circuito especializada para copiar ou ler o conteúdo, enquanto o software lida com o processamento avançado.
+
+Desenvolvida para converter diversos tipos de documentos em dados pesquisáveis e editáveis. Isso porque ele
+consegue reconhecer as letras e palavras de um documento em imagem e facilitar a busca por informações
+específicas.
+
+Fazendo a análise da estrutura do documento converte virtualmente qualquer tipo de imagem com texto digitado,
+manuscrito ou impresso, em dados de texto legível por uma máquina.
+
+O processo acontece da seguinte maneira, o OCR divide a página em elementos como blocos de textos, tabelas,
+imagens e etc. As linhas são divididas em palavras e, então, em caracteres.
+
+Uma vez que os conteúdos tenham sido selecionados, o sistema faz uma comparação com um conjunto de imagens padrão
+e seguida, avança com base nessas hipóteses, analisando diferentes variáveis de quebra de linhas em palavras e
+caracteres até que finalmente o conteúdo seja reconhecido.
+
+Utilizando o OCR em seus documentos, você poderá realizar buscas internas, recortar uma parte do conteúdo e usar
+em um novo documento, entre outras alterações que podem ser feitas. Porém, é importante saber que o documento não
+pode ser editado, isso seria adulteração, mas as demais edições citadas podem ser feitas.
+
+Para saber se um documento é pesquisável ou não, basta tentar selecionar o conteúdo contido nele ou apertar o
+botão CTRL + F, para ter a opção de pesquisar, através de palavras-chave, as informações que você precisa no
+momento. Caso nenhuma dessas ações dê certo, significa que seu documento ainda não é pesquisável.
+
+Com essas funcionalidades, o seu tempo é otimizado, pois não é preciso ler durante horas um contrato para
+encontrar uma informação.
+
