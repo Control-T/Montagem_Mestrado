@@ -1,0 +1,18 @@
+
+
+1) Abra uma pasta qualquer no seu computador que você deseja versionar usando o Git;
+
+2) clique com o botão direito do mouse e escolha a opção "Git bash here";
+
+3) aguarde abrir a janela de linha de comando do Git;
+
+4) na linha de comando digite os comandos na sequência abaixo:
+   $ git status
+   $ git add arquivo que se deseja versionar
+   $ git commit -m "digite qualquer coisa que ajude a descrever algo sobre o arquivo que será versionado"
+   $ git push origin master
+
+5) Aguarde para digitar nome de usuário e senha do Github em uma janela SSH;
+
+6) Verifique novamente na pasta se o arquivo escolhido está sendo versionado a partir de agora;
+   $ git status
